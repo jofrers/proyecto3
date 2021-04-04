@@ -1,3 +1,3 @@
 # Archivos Powershell
 
--[x] Lectura de archivo CSV
+- [X] Lectura de archivo CSV
