@@ -26,7 +26,7 @@ Estoy escribiendo *un texto* con **varios formatos** y parece que funciona.
 - [X] Powershell
 - [X] Csharp
 - [X] Java
-- [ ] Python
+- [X] Python
 - [ ] Notebook
 - [ ] Docker. Docker-file
 - [ ] Ubuntu
