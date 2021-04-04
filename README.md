@@ -21,7 +21,7 @@ Estoy escribiendo *un texto* con **varios formatos** y parece que funciona.
 ### Imagen 2 del marcado
 ![Marcado 2](/fotos/informalidad.jpg)
 
-##Tareas
+## Tareas
 
 - [ ] Tarea1
 - [X] Tarea2
@@ -59,7 +59,7 @@ GitHub supports emoji!
 :metal:  
 :octocat:  
 
-##Texto citado  
+## Texto citado  
 Javier dijo:  
 
         > No soy un experto en nada.
