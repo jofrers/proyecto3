@@ -1,0 +1,13 @@
+C:\Users\FAMILIA\Documents\GitHub\proyecto3\CSharp\bin\Debug\netcoreapp3.1\CSharp.exe
+C:\Users\FAMILIA\Documents\GitHub\proyecto3\CSharp\bin\Debug\netcoreapp3.1\CSharp.deps.json
+C:\Users\FAMILIA\Documents\GitHub\proyecto3\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.json
+C:\Users\FAMILIA\Documents\GitHub\proyecto3\CSharp\bin\Debug\netcoreapp3.1\CSharp.runtimeconfig.dev.json
+C:\Users\FAMILIA\Documents\GitHub\proyecto3\CSharp\bin\Debug\netcoreapp3.1\CSharp.dll
+C:\Users\FAMILIA\Documents\GitHub\proyecto3\CSharp\bin\Debug\netcoreapp3.1\CSharp.pdb
+C:\Users\FAMILIA\Documents\GitHub\proyecto3\CSharp\obj\Debug\netcoreapp3.1\CSharp.csprojAssemblyReference.cache
+C:\Users\FAMILIA\Documents\GitHub\proyecto3\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfoInputs.cache
+C:\Users\FAMILIA\Documents\GitHub\proyecto3\CSharp\obj\Debug\netcoreapp3.1\CSharp.AssemblyInfo.cs
+C:\Users\FAMILIA\Documents\GitHub\proyecto3\CSharp\obj\Debug\netcoreapp3.1\CSharp.csproj.CoreCompileInputs.cache
+C:\Users\FAMILIA\Documents\GitHub\proyecto3\CSharp\obj\Debug\netcoreapp3.1\CSharp.dll
+C:\Users\FAMILIA\Documents\GitHub\proyecto3\CSharp\obj\Debug\netcoreapp3.1\CSharp.pdb
+C:\Users\FAMILIA\Documents\GitHub\proyecto3\CSharp\obj\Debug\netcoreapp3.1\CSharp.genruntimeconfig.cache
