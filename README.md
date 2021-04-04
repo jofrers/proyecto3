@@ -1,6 +1,6 @@
-# Proyecto3
+# :metal: Proyecto3. Distintos lenguajes y extenciones
 
-## Parte 1
+## :rocket: Parte 1
 
 **Mi primer texto**
 *Texto en cursiva*
@@ -15,17 +15,21 @@ Estoy escribiendo *un texto* con **varios formatos** y parece que funciona.
         * ss2
 
         ´[Jofrers en Github](https://github.com/jofrers)
-### Imagen 1 del marcado    
+### :tada:  Imagen 1 del marcado    
 ![Marcado 1](/fotos/Copa-del-Rey-2020.jpg)
 
-### Imagen 2 del marcado
+### :camel: Imagen 2 del marcado
 ![Marcado 2](/fotos/informalidad.jpg)
 
-## Tareas
+##  :+1: Tareas
 
-- [ ] Tarea1
-- [X] Tarea2
-- [ ] Tarea3
+- [X] Powershell
+- [X] Csharp
+- [X] Java
+- [ ] Python
+- [ ] Notebook
+- [ ] Docker. Docker-file
+- [ ] Ubuntu
 
 ```SQL
 select * from alumno
@@ -51,15 +55,15 @@ javi | javie@con.es
 Zuli | zuli@con.es
 
 GitHub supports emoji!  
-:+1:  
-:sparkles:  
-:camel:  
-:tada:  
-:rocket:  
-:metal:  
+  
+ 
+  
+ 
+  
+  
 :octocat:  
 
-## Texto citado  
+## :sparkles: Texto citado  
 Javier dijo:  
 
         > No soy un experto en nada.
